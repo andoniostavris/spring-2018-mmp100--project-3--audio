@@ -8,10 +8,12 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
 ### Link
-[http://www.add link to your project here.com]([http://www.add link to your project here.com)
+[http://mmp.bmcc.cuny.edu/Andonios.Tavris/spring-2018/mmp-100/project-3/]([http://www.add link to your project here.com)
 
 ### Description
-Your description goes here.
+Combinations of sounds it has sampleing of my favorite instrustmental for hip hop artist Mac Miller
+in the song star room in the album Watching Movies with the Sound Off. Also added semi random parts
+in the beginning middle and end.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
